@@ -1,4 +1,3 @@
-mynative
+DigitalShip Framework
 ========
-**Code thuần
-mynative
+*MyFramework - Sử dụng các components của framework khác tạo ra một FW tùy chỉnh
