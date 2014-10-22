@@ -1,0 +1,27 @@
+{
+	"name": "Kawase Project",
+	"description": "Kawase Project",
+	"license": "MIT",
+	"require": {
+		"cartalyst/sentry": "2.0.*@dev",
+		"illuminate/cache": "4.2.*",
+		"illuminate/database": "4.2.*",
+		"illuminate/filesystem": "4.2.*",
+		"silex/silex": "1.2.*",
+		"twig/twig": "1.16.*",
+		"smarty/smarty": "3.1.7"
+	},
+	"repositories": [
+        {
+            "type": "package",
+            "package": {
+				    "name": "smarty/smarty",
+				    "version": "3.1.7",
+				    "dist": {
+				        "url": "http://www.smarty.net/files/Smarty-3.1.7.zip",
+				        "type": "zip"
+				    }
+            }
+        }
+    ]
+}
